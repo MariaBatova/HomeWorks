@@ -33,7 +33,9 @@ else
     Console.WriteLine("No third digit!");
 */
 
+/*
 // Задача 15. Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+Console.Write("Enter the number of the day of the week: ");
 bool TheWeekDay(int d);
 {
     bool result;
@@ -62,3 +64,4 @@ else
 {
     Console.WriteLine($"{num} day of the week is not a Holiday"); 
 }
+*/

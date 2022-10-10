@@ -1,0 +1,15 @@
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\bin\Debug\net6.0\HomeWorks2.exe
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\bin\Debug\net6.0\HomeWorks2.deps.json
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\bin\Debug\net6.0\HomeWorks2.runtimeconfig.json
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\bin\Debug\net6.0\HomeWorks2.dll
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\bin\Debug\net6.0\HomeWorks2.pdb
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\HomeWorks2.csproj.AssemblyReference.cache
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\HomeWorks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\HomeWorks2.AssemblyInfoInputs.cache
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\HomeWorks2.AssemblyInfo.cs
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\HomeWorks2.csproj.CoreCompileInputs.cache
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\HomeWorks2.dll
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\refint\HomeWorks2.dll
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\HomeWorks2.pdb
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\HomeWorks2.genruntimeconfig.cache
+C:\Users\Marus\OneDrive\Рабочий стол\Seminar1\HomeWorks\HomeWorks2\obj\Debug\net6.0\ref\HomeWorks2.dll
