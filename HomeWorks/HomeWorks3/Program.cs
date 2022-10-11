@@ -42,6 +42,7 @@ else
 }
 */
 
+/*
 // Задача 21. Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 double Distance (double xa, double xb, double ya, double yb, double za, double zb)
 {
@@ -62,5 +63,20 @@ Console.Write("Input zb-coordinate: ");
 double zb = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine($"Distance between A({xa}, {ya}, {za}) and B({xb}, {yb}, {zb}) ~= {Math.Round(Distance(xa, ya, za, xb, yb, zb), 2)}.");
+*/
 
 // Задача 23. Напишите программу, которая принимает на вход число N и выдает таблицу кубов чисел от 1 до N.
+void Quart(int N)
+{
+    int count = 1;
+    while(count <= N)
+    {
+        Console.Write($"{Math.Pow(count, 3)}");
+        if(count < N) Console.Write(", ");
+        count++;
+    }
+}
+
+Console.Write("Input N: ");
+int N = Convert.ToInt32(Console.ReadLine());
+Quart(N);
