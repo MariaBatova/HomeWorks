@@ -123,7 +123,6 @@ double[] ColumnsElements(int[,] array)
     return newarray;
 }
 int[,] myArray = CreateRandomArray();
-PrintArray(myArray);
 double[] newArray = ColumnsElements(myArray);
 PrintArray(newArray);
 Console.ReadLine();
